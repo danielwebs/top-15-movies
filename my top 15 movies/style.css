@@ -1,0 +1,13 @@
+h1 {
+  color: blue;
+  font-family: "Square Peg", cursive;
+  font-size: 2rem;
+}
+
+td i {
+  color: gold;
+}
+
+tr td {
+  text-decoration: solid;
+}
